@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PostPC_ex7</string>
+    <string name="change_name">Change Name</string>
+    <string name="pretty_name">Set Pretty Name!</string>
+    <string name="connect">Connect</string>
+    <string name="username">username</string>
+    <string name="loading">Loading...</string>
+    <string name="what_s_your_username">What\'s your username?</string>
+    <string name="edit_profile">edit profile</string>
+</resources>

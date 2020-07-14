@@ -1,0 +1,7 @@
+1) Saving the Token Locally
+Pro: More Convenient
+Con: Insecure 
+
+2) Requesting Token from server every time
+Pro: More secure 
+Con: Lacks convenience 
